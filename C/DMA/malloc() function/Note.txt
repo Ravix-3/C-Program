@@ -1,0 +1,5 @@
+t allocates a single block of memory based on user-specified size. 
+It returns null if memory is not sufficient.
+It's important to keep in mind that malloc() returns a pointer to the beginning of the newly allocated memory block, 
+and it's the programmer's responsibility to free this memory when it's no longer needed.
+syantax:ptr=(cast-type*)malloc(byte-size)

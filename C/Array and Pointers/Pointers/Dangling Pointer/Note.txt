@@ -1,0 +1,5 @@
+Dangling pointer is a pointer that points to a memory location that has freed, deleted,or invalid..
+Some reasons why dangling pointers can be created include: 
+Deallocating memory using free() 
+A variable going out of scope 
+A function returning a pointer that points to a local variable within the function 

@@ -1,0 +1,1 @@
+  printf("%s\t",name1[0]);

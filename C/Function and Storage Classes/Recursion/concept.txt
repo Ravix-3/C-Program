@@ -1,0 +1,14 @@
+problem:Atleast 2 cases
+if(input is small){
+    **try to guess minimum value
+    1.can be answered directly
+    2.no recusion is needed 
+    3.easy problem
+}
+else
+{   **input is large
+    1.cannot be answered directly
+    2.Not easy
+    3.recusion is needed
+}
+*** har call kuch kaam khud karti hai baki recusion karti hai 

@@ -1,0 +1,3 @@
+The header file stdlib.h is used for the purpose of dynamic memory allocation.
+ With the help of dynamic memory allocation, you can allocate memory to the program during run time.
+ It makes it possible to optimize memory usage in a program and reduce the risk of memory leaks.

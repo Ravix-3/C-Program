@@ -1,0 +1,4 @@
+NUll pointer is a specially designed pointer.
+Implemented by 0;
+valid address is always an unsigned int.
+Syntax:int *p=(int *)0;

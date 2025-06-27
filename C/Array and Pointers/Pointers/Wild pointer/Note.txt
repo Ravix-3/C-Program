@@ -1,0 +1,1 @@
+Wild pointer is like a wild man which forcibly changing the value of normal variable.
